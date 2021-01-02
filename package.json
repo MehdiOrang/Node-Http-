@@ -1,7 +1,7 @@
 {
   "name": "node-http",
   "version": "1.0.0",
-  "description": "Node HTTP Module Example wirh Validation",
+  "description": "Node HTTP Module Example with Validation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
